@@ -62,3 +62,6 @@ Conclusion
 This Power BI Sales Dashboard project exemplifies how visual analytics can transform raw data into actionable business insights. By integrating various data sources and presenting them through an intuitive, interactive interface, the dashboard helps sales teams, managers, and executives stay aligned with business goals. It encourages data-driven culture and speeds up the decision-making process across departments.
 
 Future enhancements may include predictive analytics, integration with real-time data APIs, and embedding dashboards into web portals or mobile apps for even greater accessibility and automation.
+
+# OUTPUT
+![Image](https://github.com/user-attachments/assets/ab0d2347-bda5-46b2-b33c-bbc034f040be)
